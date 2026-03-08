@@ -1,6 +1,0 @@
-opencv-python
-matplotlib
-numpy
-ultralytics
-torch
-streamlit
